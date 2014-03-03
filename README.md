@@ -1,18 +1,13 @@
 # Textmate bundle for Laravel 4
 
 * Laravel 4 snippets
-* Blade language grammar
-* Artisan commands
 * Helpers snippets
-* Blade snippets
-
-![Preview](screenshot.png "Menu preview")
 
 ## Installing
 
 	cd ~/Library/Application\ Support/Avian/Bundles/
 	git clone https://github.com/loranger/Laravel.tmbundle.git
-	
+
 ## Credits
 
-Blade language grammar is based on [Medialink syntax definition](https://github.com/Medalink/laravel-blade) for Sublime Text
+Fork of [loranger original bundle](https://github.com/loranger/Laravel.tmbundle) without blade synthax include.

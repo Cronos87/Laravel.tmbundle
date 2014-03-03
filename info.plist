@@ -7,7 +7,7 @@
 		<key>method</key>
 		<string>git</string>
 		<key>url</key>
-		<string>git://github.com/loranger/laravel.tmbundle</string>
+		<string>git://github.com/Cronos87/laravel.tmbundle</string>
 	</dict>
 	<key>contactEmailRot13</key>
 	<string>ynheragt@tznvy.pbz</string>
@@ -18,9 +18,7 @@
 	<key>uuid</key>
 	<string>BFD74D71-3606-4C19-A1B7-0A340875D65C</string>
 	<key>description</key>
-	<string>Laravel 4 Bundle
-
-Blade language grammar is bases on https://github.com/Medalink/laravel-blade</string>
+	<string>Laravel 4 Bundle</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>excludedItems</key>
@@ -341,54 +339,6 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 				<key>name</key>
 				<string>Route</string>
 			</dict>
-            <key>0B96CC2E-1850-45F9-8585-37318AE3707D</key>
-            <dict>
-                <key>items</key>
-                <array>
-                    <string>54F4119C-5849-4FFB-9CF5-B620380AAEE3</string>
-                    <string>3D114FC1-850C-4A15-8EE8-E433D67621E9</string>
-                    <string>6682DAD5-9919-4660-93FB-D8B9AC305682</string>
-                    <string>740291F1-4902-4FD5-82F7-FF1ECF92ECE6</string>
-                    <string>------------------------------------</string>
-                    <string>6A874AB7-B598-4CAB-9645-695216CCDAC0</string>
-                    <string>83587943-5CF2-4D66-BFBF-CE71AEAE95B3</string>
-                    <string>------------------------------------</string>
-                    <string>F37876ED-0E22-4E9B-B3B3-1CEFC4FF548A</string>
-                    <string>5835891B-2E5A-4F69-92C9-A54CFC620A4B</string>
-                    <string>2848CAFD-866A-49ED-A4A1-F93AA8D55BB7</string>
-                </array>
-                <key>name</key>
-                <string>Artisan</string>
-            </dict>
-            <key>10220ABB-02D3-4FDB-B10F-49BF94E7D9AD</key>
-            <dict>
-                <key>items</key>
-                <array>
-                    <string>0A783DBC-41F1-452E-92A5-2DAA1427525B</string>
-                    <string>3562CB09-3E47-4A1B-9FA5-2271B7314A7F</string>
-                    <string>9F016FA1-CC17-489E-B295-1563B8CB4024</string>
-                    <string>2DD35BDF-FC63-4D12-AE2D-AF43993B3C75</string>
-                    <string>D333ADCF-82E4-4C4E-B873-6F8058F4D4F1</string>
-                    <string>------------------------------------</string>
-                    <string>F229BBD6-7443-40BD-8890-AC5D0A58961E</string>
-                    <string>14AA625F-C11F-4354-A762-E3E6A3862226</string>
-                    <string>C6C36B1F-B67F-4EBE-B8BC-356A9C739A10</string>
-                    <string>8809DBA8-6DE6-43C6-B8B0-A89E0F63F528</string>
-                    <string>------------------------------------</string>
-                    <string>BB75B38E-0FBE-4944-8279-447B46BE8DDB</string>
-                    <string>DFFEEDC9-66A4-4A9E-A238-1B7A465256CF</string>
-                    <string>FCEBCEF7-C4D3-401F-8325-344B0AB2022E</string>
-                    <string>------------------------------------</string>
-                    <string>74EC1A00-D9A3-4000-9829-31BC5F8E046A</string>
-                    <string>E790CF89-8E18-4877-94AF-7ACECCA79E93</string>
-                    <string>------------------------------------</string>
-                    <string>CDD98C6B-813A-4E0B-ADD9-A660D1C0D54F</string>
-                    <string>CF33D270-84F8-4B43-8DDD-C632DA771191</string>
-                    <string>E483AC39-2367-4BD2-8FC4-2BAC445E169A</string>
-                </array>
-                <key>name</key>
-                <string>Blade</string>
-            </dict>
 		</dict>
 	</dict>
 </dict>
